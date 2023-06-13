@@ -28,5 +28,5 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 ![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
 
 
-##Licenses
+## Licenses
 No liciences are required. This Game is free for all
